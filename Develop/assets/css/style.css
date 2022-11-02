@@ -44,15 +44,14 @@ body {
     margin-left: 25px;
 }
 
-/* HEADER END */
+/* ALL Links in header */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-p, figcaption {
-    font-size: 16px;
-}
+/* HEADER END */
+
 
 /* HERO IMAGE */
 .hero {
@@ -103,6 +102,11 @@ section h2 {
 }
 
 /* MAIN CONTENT END */
+
+/* Paragraphs in main content and figcaptions in the aside */
+p, figcaption {
+    font-size: 16px;
+}
 
 /* BENEFITS ASIDE */
 

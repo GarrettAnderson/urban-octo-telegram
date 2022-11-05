@@ -10,11 +10,9 @@ Run `git-clone <repo-name>` into a folder of your chosing on your local machine.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The site can be viewed [here](https://garrettanderson.github.io/urban-octo-telegram/).
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![](assets/images/horiseon-screenshot.png)
 
 ## Credits
 

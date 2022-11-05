@@ -63,6 +63,14 @@ a {
     background-position: center;
 }
 
+
+/* MAIN CONTENT */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,14 +79,6 @@ a {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-
-/* MAIN CONTENT */
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .search-engine-optimization, 
